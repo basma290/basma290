@@ -1,6 +1,3 @@
-Here's a sample README file for your chat application:
-
----
 
 # Chat Application
 
@@ -83,7 +80,3 @@ The application includes basic exception handling to manage common issues such a
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify this README to better fit your specific needs or additional features you may add to your application.
